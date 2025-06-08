@@ -15,18 +15,18 @@
     "url": "https://github.com/Microsoft/vscode-emmet-helper"
   },
   "devDependencies": {
-    "@types/mocha": "^10.0.1",
-    "@types/node": "^20.0.0",
-    "@types/vscode": "^1.78.0",
-    "mocha": "^10.2.0",
-    "typescript": "^5.6.3"
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^22.15.30",
+    "@types/vscode": "^1.100.0",
+    "mocha": "^11.5.0",
+    "typescript": "^5.8.3"
   },
   "dependencies": {
-    "emmet": "^2.4.3",
-    "jsonc-parser": "^2.3.0",
-    "vscode-languageserver-textdocument": "^1.0.1",
-    "vscode-languageserver-types": "^3.15.1",
-    "vscode-uri": "^3.0.8"
+    "emmet": "^2.4.11",
+    "jsonc-parser": "^3.3.1",
+    "vscode-languageserver-textdocument": "^1.0.12",
+    "vscode-languageserver-types": "^3.17.5",
+    "vscode-uri": "^3.1.0"
   },
   "scripts": {
     "watch": "tsc -watch -p ./",
